@@ -3,4 +3,6 @@
     <string name="SwitchTextEn">Ready to donate my soul</string>
     <string name="nameHintEn">Ivan</string>
     <string name="surnameHintEn">Ivanov</string>
+    <string name="buttonText">to continuewatch</string>
+    <string name="secondsText" translatable="false">seconds elapsed:</string>
 </resources>

@@ -53,7 +53,7 @@
         android:id="@+id/confButton"
         android:layout_width="247dp"
         android:layout_height="wrap_content"
-        android:text="Confirm"
+        android:text="@string/buttonText"
         app:layout_constraintBottom_toTopOf="@+id/glHorBot"
         app:layout_constraintEnd_toStartOf="@+id/glVertMid"
         app:layout_constraintStart_toStartOf="@+id/glVertRight"
